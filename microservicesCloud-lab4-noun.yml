@@ -1,2 +1,8 @@
 ---
+spring:
+  profiles: default
 words: boat,book,vote,seat,backpack,partition,groundhog
+---
+spring:
+  profiles: copycat
+words: icicle,refrigerator,blizzard,snowball
